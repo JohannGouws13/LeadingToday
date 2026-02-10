@@ -14,19 +14,11 @@ export default function ThreeFixesSection({ onDownloadClick }: ThreeFixesSection
       number: "01",
       title: "FROM CONFUSION TO CLARITY",
       problem: "You lost R20k at that networking event because the answer to \"what do you do\" put them to sleep.",
-      fix: "The HOOK Framework. Four lines. Seven seconds.",
+      fix: "The Hook",
       examples: [
         {
-          before: '"I work in business consulting and systems optimization..."',
-          after: '"You know how entrepreneurs have brilliant products but their business runs on spreadsheets and WhatsApp? I build the systems that let them scale without working 80-hour weeks."',
-        },
-        {
-          before: '"I am an accountant"',
-          after: '"Do you know how many South African entrepreneurs are great entrepreneurs but they really struggle with their tax and accounting? We serve micro entrepreneurs with their tax and accounting challenges so they can get optimal tax returns and worry less about their accounting."',
-        },
-        {
-          before: '"I am an engineer"',
-          after: '"I help businesses optimise their operations by looking at robust green initiatives, so that they can save money and save the planet."',
+          before: '"I\'m in IT."',
+          after: '"Label the Pain: Have you noticed how many entrepreneurs build a good business only to get trapped by it? Customers don\'t understand what they do, and their systems are failing them. When a customer is confused, we lose the sale.\n\nShow Freedom: Imagine a day where your customers know exactly what you do and how you solve their problem. It\'s easy to do business with you: Click. Pay. Done. Your message is clear and your systems run the business. You spend time with your family instead of sending out quotes manually.\n\nSell the Map: We help you clarify your message using The Hook Framework, then we audit your systems and build the ones that run your business. A business that scales while you sleep.\n\nReveal the Cost: Or continue doing things the same way—sending quotes manually, losing sales to confused customers, and working weekends while other entrepreneurs take that family trip. The question isn\'t whether you need to fix this. It\'s how much longer you can afford not to."',
         },
       ],
       cta: "Get The Framework (Free)",

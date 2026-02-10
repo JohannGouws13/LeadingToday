@@ -12,7 +12,7 @@ export default function FinalCTASection({ onDownloadClick }: FinalCTASectionProp
     {
       icon: Download,
       title: "Get The 7-Second Pitch",
-      description: "Download The HOOK Framework for free",
+      description: "Download The Hook for free",
       action: "download",
       buttonText: "Download Now (Free)",
     },
