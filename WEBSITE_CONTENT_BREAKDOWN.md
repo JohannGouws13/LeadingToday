@@ -29,7 +29,39 @@ What if this changed?
 
 ---
 
-## SECTION 2: THE LEADINGTODAY ENTREPRENEURS PLAYBOOK
+## SECTION 2: WHAT IS THE HOOK?
+
+### Section Title
+**THE HOOK** (displayed in bordered box)
+
+### Introduction
+The HOOK is a story-based framework that helps you sell to your customer.
+
+It invites them into a story where:
+
+---
+
+### Step 1: Label the Pain
+They see themselves stuck in their current struggle
+
+---
+
+### Step 2: Show Freedom
+You paint the transformation they're desperate for
+
+---
+
+### Step 3: Sell the Map
+You position your product as THE guide to get there
+
+---
+
+### Step 4: Reveal the Cost
+They understand what staying stuck will cost them
+
+---
+
+## SECTION 3: THE LEADINGTODAY ENTREPRENEURS PLAYBOOK
 
 ### Section Title
 **The LeadingToday Entrepreneurs Playbook**
@@ -86,7 +118,7 @@ Your systems are in place. Your business is growing itself. You get to spend tim
 
 ---
 
-## SECTION 3: HOW IT WORKS
+## SECTION 4: HOW IT WORKS
 
 ### Section Title
 **HOW IT WORKS**
@@ -117,7 +149,7 @@ Three simple steps to transform your business
 
 ---
 
-## SECTION 4: SOCIAL PROOF
+## SECTION 5: SOCIAL PROOF
 
 ### Section Title
 **WHAT HAPPENS WHEN YOU FIX THE MESSAGE**
@@ -156,7 +188,7 @@ Three simple steps to transform your business
 
 ---
 
-## SECTION 5: WHY I BUILT LEADINGTODAY
+## SECTION 6: WHY I BUILT LEADINGTODAY
 
 ### Section Title
 **Why I Built LeadingToday**
@@ -196,7 +228,7 @@ You didn't start a business to drown in admin. You started to solve a problem—
 
 ---
 
-## SECTION 6: CALL TO ACTION BREAK
+## SECTION 7: CALL TO ACTION BREAK
 
 You didn't start a business to drown in admin. You started to solve a problem—and create freedom. Let's build that. Together.
 
@@ -204,7 +236,7 @@ You didn't start a business to drown in admin. You started to solve a problem—
 
 ---
 
-## SECTION 7: FAQ
+## SECTION 8: FAQ
 
 ### Section Title
 **FAQ**
@@ -239,7 +271,7 @@ You didn't start a business to drown in admin. You started to solve a problem—
 
 ---
 
-## SECTION 8: FINAL CTA
+## SECTION 9: FINAL CTA
 
 ### Main Heading
 **You've Read This Far. That Means Something.**
