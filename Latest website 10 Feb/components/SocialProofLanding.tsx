@@ -24,8 +24,8 @@ export default function SocialProofLanding({ onDownloadClick }: SocialProofLandi
   const stats = [
     {
       icon: Users,
-      number: "10,000+",
-      label: "South African founders using The HOOK",
+      number: "100+",
+      label: "South African business owners are using systems built by LeadingToday and it's partners",
     },
     {
       icon: Clock,
@@ -34,8 +34,8 @@ export default function SocialProofLanding({ onDownloadClick }: SocialProofLandi
     },
     {
       icon: TrendingUp,
-      number: "32%",
-      label: "increase in deal closure rates",
+      number: "43%",
+      label: "increase in business visibility and sales",
     },
   ];
 
@@ -149,7 +149,7 @@ export default function SocialProofLanding({ onDownloadClick }: SocialProofLandi
             onClick={onDownloadClick}
             className="px-8 py-4 bg-blue-600 text-white font-bold text-lg rounded-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300"
           >
-            Download The Hook
+            Do A Systems Audit
           </button>
         </motion.div>
       </div>

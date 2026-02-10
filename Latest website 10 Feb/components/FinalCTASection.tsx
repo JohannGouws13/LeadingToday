@@ -11,8 +11,8 @@ export default function FinalCTASection({ onDownloadClick }: FinalCTASectionProp
   const ctas = [
     {
       icon: Download,
-      title: "Download The Hook",
-      description: "Download The Hook for free",
+      title: "Do A Systems Audit (Free)",
+      description: "Do a systems audit for your business for free and get the Systems Playbook for free",
       action: "download",
       buttonText: "Download Now (Free)",
     },
