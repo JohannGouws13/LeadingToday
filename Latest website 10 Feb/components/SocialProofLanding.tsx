@@ -149,7 +149,7 @@ export default function SocialProofLanding({ onDownloadClick }: SocialProofLandi
             onClick={onDownloadClick}
             className="px-8 py-4 bg-blue-600 text-white font-bold text-lg rounded-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300"
           >
-            Get The Framework They're Using
+            Download The Hook
           </button>
         </motion.div>
       </div>

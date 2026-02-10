@@ -11,7 +11,7 @@ export default function FinalCTASection({ onDownloadClick }: FinalCTASectionProp
   const ctas = [
     {
       icon: Download,
-      title: "Get The 7-Second Pitch",
+      title: "Download The Hook",
       description: "Download The Hook for free",
       action: "download",
       buttonText: "Download Now (Free)",

@@ -12,7 +12,7 @@ export default function HowItWorksLanding({ onDownloadClick }: HowItWorksLanding
     {
       number: 1,
       icon: Download,
-      title: "Get The Pitch",
+      title: "Download The Hook",
       description: "Download The Hook. 7 minutes to learn. 7 seconds to use. Forever.",
       cta: "Download Now",
       ctaAction: "download",

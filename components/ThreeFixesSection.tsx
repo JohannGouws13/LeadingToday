@@ -18,10 +18,10 @@ export default function ThreeFixesSection({ onDownloadClick }: ThreeFixesSection
       examples: [
         {
           before: '"I\'m in IT."',
-          after: '"Label the Pain: Have you noticed how many entrepreneurs build a good business only to get trapped by it? Customers don\'t understand what they do, and their systems are failing them. When a customer is confused, we lose the sale.\n\nShow Freedom: Imagine a day where your customers know exactly what you do and how you solve their problem. It\'s easy to do business with you: Click. Pay. Done. Your message is clear and your systems run the business. You spend time with your family instead of sending out quotes manually.\n\nSell the Map: We help you clarify your message using The Hook Framework, then we audit your systems and build the ones that run your business. A business that scales while you sleep.\n\nReveal the Cost: Or continue doing things the same way—sending quotes manually, losing sales to confused customers, and working weekends while other entrepreneurs take that family trip. The question isn\'t whether you need to fix this. It\'s how much longer you can afford not to."',
+          after: '"Label the Pain: Have you noticed how many entrepreneurs build a good business only to get trapped by it? Customers don\'t understand what they do, and their systems are failing them. When a customer is confused, we lose the sale.\n\n\nShow Freedom: Imagine a day where your customers know exactly what you do and how you solve their problem. It\'s easy to do business with you: Click. Pay. Done. Your message is clear and your systems run the business. You spend time with your family instead of sending out quotes manually.\n\n\nSell the Map: We help you clarify your message using The Hook Framework, then we audit your systems and build the ones that run your business. A business that scales while you sleep.\n\n\nReveal the Cost: Or continue doing things the same way—sending quotes manually, losing sales to confused customers, and working weekends while other entrepreneurs take that family trip. The question isn\'t whether you need to fix this. It\'s how much longer you can afford not to."',
         },
       ],
-      cta: "Get The Framework (Free)",
+      cta: "Download The Hook",
       ctaAction: "download",
     },
     {

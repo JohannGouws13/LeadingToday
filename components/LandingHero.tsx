@@ -111,7 +111,7 @@ export default function LandingHero({ onDownloadClick }: LandingHeroProps) {
               onClick={onDownloadClick}
               className="px-8 py-4 bg-blue-600 text-white font-bold text-lg rounded-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300 w-full sm:w-auto"
             >
-              Get The 7-Second Pitch That Closes Deals
+              Download The Hook
             </button>
             <a
               href="https://calendly.com/johanngouws13/the-call-that-builds-your-dream-business"
