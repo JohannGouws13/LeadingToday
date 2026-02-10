@@ -119,7 +119,7 @@ export default function ThreeFixesSection({ onDownloadClick }: ThreeFixesSection
                           </div>
                           <div className="bg-blue-50 border-2 border-blue-300 rounded-xl p-6">
                             <h5 className="font-bold text-blue-900 mb-2">After:</h5>
-                            <p className="text-gray-700 italic">{example.after}</p>
+                            <p className="text-gray-700 italic whitespace-pre-line">{example.after}</p>
                           </div>
                         </div>
                       ))}
