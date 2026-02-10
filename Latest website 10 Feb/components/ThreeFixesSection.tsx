@@ -13,15 +13,9 @@ export default function ThreeFixesSection({ onDownloadClick }: ThreeFixesSection
     {
       number: "01",
       title: "FROM CONFUSION TO CLARITY",
-      problem: "You lost R20k at that networking event because the answer to \"what do you do\" put them to sleep.",
-      fix: "The Hook",
-      examples: [
-        {
-          before: '"I\'m in IT."',
-          after: '"Label the Pain: Have you noticed how many entrepreneurs build a good business only to get trapped by it? Customers don\'t understand what they do, and their systems are failing them. When a customer is confused, we lose the sale.\n\n\nShow Freedom: Imagine a day where your customers know exactly what you do and how you solve their problem. It\'s easy to do business with you: Click. Pay. Done. Your message is clear and your systems run the business. You spend time with your family instead of sending out quotes manually.\n\n\nSell the Map: We help you clarify your message using The Hook Framework, then we audit your systems and build the ones that run your business. A business that scales while you sleep.\n\n\nReveal the Cost: Or continue doing things the same way—sending quotes manually, losing sales to confused customers, and working weekends while other entrepreneurs take that family trip. The question isn\'t whether you need to fix this. It\'s how much longer you can afford not to."',
-        },
-      ],
-      cta: "Download The Hook",
+      problem: "Your business operates everywhere. Email. Spreadsheets. WhatsApp. This is exhausting and it's not helping you.",
+      fix: "Let's build an automated system that does the work for you.",
+      cta: "Do the Systems Autopsy",
       ctaAction: "download",
     },
     {
@@ -30,7 +24,7 @@ export default function ThreeFixesSection({ onDownloadClick }: ThreeFixesSection
       problem: "Customers pay you through 8 manual steps. Too many steps = customers ghosting us.",
       fix: "Automate your business. 2 clicks. Click. Pay. Done. Your business continues while you sleep.",
       highlight: "Watch The 48-Hour Automation",
-      cta: "Watch The 48-Hour Automation",
+      cta: "Book a Coffee with Johann",
       ctaAction: "calendly",
     },
     {

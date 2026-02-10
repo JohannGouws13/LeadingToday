@@ -10,11 +10,6 @@ interface LandingHeroProps {
 export default function LandingHero({ onDownloadClick }: LandingHeroProps) {
   const problems = [
     {
-      icon: MessageSquareX,
-      title: "Unclear Messaging",
-      color: "blue-600",
-    },
-    {
       icon: Unplug,
       title: "Broken Systems",
       color: "blue-600",
@@ -22,6 +17,11 @@ export default function LandingHero({ onDownloadClick }: LandingHeroProps) {
     {
       icon: FileX,
       title: "Admin Chaos",
+      color: "blue-600",
+    },
+    {
+      icon: MessageSquareX,
+      title: "Manual Repetitions",
       color: "blue-600",
     },
   ];
@@ -37,7 +37,7 @@ export default function LandingHero({ onDownloadClick }: LandingHeroProps) {
             transition={{ duration: 0.6 }}
             className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight"
           >
-            You're One Story Away From{" "}
+            You're One System Automation Away From{" "}
             <span className="text-blue-600">
               Doubling Your Revenue
             </span>
@@ -51,7 +51,7 @@ export default function LandingHero({ onDownloadClick }: LandingHeroProps) {
             className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto"
           >
             The difference between entrepreneurs who scale and those who struggle isn't talent.{" "}
-            <span className="font-semibold text-gray-900">It's clarity.</span> And clarity takes 7 seconds.
+            <span className="font-semibold text-gray-900">It's a system.</span> A system that builds your business while you sleep.
           </motion.p>
 
           {/* Three Things Killing Your Business */}
@@ -111,7 +111,7 @@ export default function LandingHero({ onDownloadClick }: LandingHeroProps) {
               onClick={onDownloadClick}
               className="px-8 py-4 bg-blue-600 text-white font-bold text-lg rounded-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300 w-full sm:w-auto"
             >
-              Download The Hook
+              Do The Systems Autopsy (Free)
             </button>
             <a
               href="https://calendly.com/johanngouws13/the-call-that-builds-your-dream-business"
@@ -119,7 +119,7 @@ export default function LandingHero({ onDownloadClick }: LandingHeroProps) {
               rel="noopener noreferrer"
               className="px-8 py-4 bg-white text-blue-600 font-bold text-lg rounded-lg border-2 border-blue-600 hover:bg-blue-50 hover:shadow-xl transition-all duration-300 w-full sm:w-auto"
             >
-              Book 30 Minutes That Could Save You 300 Hours
+              Book a Coffee with Johann
             </a>
           </motion.div>
         </div>

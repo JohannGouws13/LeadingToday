@@ -46,7 +46,7 @@ export default function WhyIBuiltThisSection() {
             The Problem
           </h3>
           <p className="text-lg text-gray-700 leading-relaxed">
-            I've watched brilliant entrepreneurs lose customers because they couldn't explain what they do in 10 seconds. I've seen businesses drown in manual admin that could be automated in an afternoon. And I've met too many founders who can't remember the last time they had dinner with their family—because their business runs on their constant attention.
+            I've watched brilliant entrepreneurs lose customers because their systems are ancient and overwhelming - and they don't have to be. I've seen businesses drown in manual admin that could be automated in an afternoon. And I've met too many founders who can't remember the last time they had dinner with their family—because their business runs on their constant attention.
           </p>
         </motion.div>
 
@@ -75,7 +75,7 @@ export default function WhyIBuiltThisSection() {
                   CONFUSION kills sales.
                 </p>
                 <p className="text-gray-700">
-                  We teach clarity frameworks—for free.
+                  When our systems are confusing and overwhelming, it's confusing for clients too.
                 </p>
               </div>
             </div>
