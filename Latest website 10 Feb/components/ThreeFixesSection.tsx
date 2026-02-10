@@ -102,24 +102,6 @@ export default function ThreeFixesSection({ onDownloadClick }: ThreeFixesSection
                     <p className="text-lg text-gray-700 font-semibold">{fix.fix}</p>
                   </div>
 
-                  {/* Before/After Examples (only for fix 01) */}
-                  {fix.examples && (
-                    <div className="space-y-6 mb-8">
-                      {fix.examples.map((example, exampleIdx) => (
-                        <div key={exampleIdx} className="grid md:grid-cols-2 gap-6">
-                          <div className="bg-gray-50 border-2 border-gray-300 rounded-xl p-6">
-                            <h5 className="font-bold text-gray-900 mb-2">Before:</h5>
-                            <p className="text-gray-700 italic">{example.before}</p>
-                          </div>
-                          <div className="bg-blue-50 border-2 border-blue-300 rounded-xl p-6">
-                            <h5 className="font-bold text-blue-900 mb-2">After:</h5>
-                            <p className="text-gray-700 italic whitespace-pre-line">{example.after}</p>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  )}
-
                   {/* CTA */}
                   <button
                     onClick={() => handleCtaClick(fix.ctaAction)}

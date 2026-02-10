@@ -3,7 +3,6 @@
 import { useState } from "react";
 import LandingHero from "@/components/LandingHero";
 import CallToActionBreak from "@/components/CallToActionBreak";
-import SalesSystemSection from "@/components/SalesSystemSection";
 import ThreeFixesSection from "@/components/ThreeFixesSection";
 import HowItWorksLanding from "@/components/HowItWorksLanding";
 import WhyIBuiltThisSection from "@/components/WhyIBuiltThisSection";
@@ -29,9 +28,8 @@ export default function LandingPage() {
       {/* All Sections */}
       <LandingHero onDownloadClick={handleDownloadClick} />
       <CallToActionBreak />
-      <SalesSystemSection />
-      <ThreeFixesSection onDownloadClick={handleDownloadClick} />
       <HowItWorksLanding onDownloadClick={handleDownloadClick} />
+      <ThreeFixesSection onDownloadClick={handleDownloadClick} />
       <WhyIBuiltThisSection />
       <SocialProofLanding onDownloadClick={handleDownloadClick} />
       <FAQLanding />
